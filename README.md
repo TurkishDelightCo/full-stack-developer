@@ -6,4 +6,4 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 ## HTML
  1. [Basic HTML](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML)
  2. [HTML Fundamentals](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/HTML%20Fundamentals)
- 3. 
+ 3. [Working with Media](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Working%20with%20Media)
