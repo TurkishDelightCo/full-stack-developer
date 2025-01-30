@@ -9,3 +9,5 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
  2. [HTML Fundamentals](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/HTML%20Fundamentals)
  3. [Working with Media](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Media)
  4. [Working with Links](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Links)
+### Semantic HTML
+1. [Importance of Semantic HTML](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Semantic%20HTML/Importance%20of%20Semantic%20HTML)
