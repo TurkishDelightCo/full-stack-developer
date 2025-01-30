@@ -1,4 +1,4 @@
-# **When Should You Use the `<strong>` Element Over the `<b>` Element?**  
+# When Should You Use the `<strong>` Element Over the `<b>` Element? 
 
 The `<b>` (bring attention to) element and the `<strong>` element may look similar in appearance, but they serve different purposes in HTML. Understanding their differences helps you use them appropriately based on the context and importance of the text.  
 

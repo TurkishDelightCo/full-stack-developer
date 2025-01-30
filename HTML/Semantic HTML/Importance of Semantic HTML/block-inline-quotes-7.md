@@ -1,4 +1,4 @@
-# **How Do Block and Inline Quotes Work in HTML?**  
+# How Do Block and Inline Quotes Work in HTML?
 
 In HTML, quoted elements are used to distinguish quoted text from the surrounding content, making it easy to identify.  
 

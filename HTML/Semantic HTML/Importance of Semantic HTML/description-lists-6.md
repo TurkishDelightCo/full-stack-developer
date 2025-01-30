@@ -1,4 +1,4 @@
-# **What Are Description Lists and When Should You Use Them?**  
+# What Are Description Lists and When Should You Use Them?
 
 Description lists are perfect for presenting terms and definitions in an organized, easy-to-read format—similar to a glossary or dictionary, where words are listed alongside their corresponding definitions.  
 

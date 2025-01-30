@@ -1,4 +1,4 @@
-### **What Are the `<u>`  `<s>` and `<ruby>` Elements Used For, and How Do They Work?**  
+# What Are the `<u>` `<s>` and `<ruby>` Elements Used For, and How Do They Work? 
 
 ### **The `<u>` Element (Unarticulated Annotation)**  
 

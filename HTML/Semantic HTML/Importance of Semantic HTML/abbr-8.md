@@ -1,4 +1,4 @@
-# **How Do You Display Abbreviations and Acronyms in HTML?**  
+# How Do You Display Abbreviations and Acronyms in HTML?
 
 An **abbreviation** is a shortened form of a word. For example, **"Dr."** (with a period) is an abbreviation for **"Doctor"**.  
 

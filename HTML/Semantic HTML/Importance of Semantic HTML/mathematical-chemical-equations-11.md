@@ -1,4 +1,4 @@
-# **How Do You Display Mathematical Equations and Chemical Formulas in HTML?**  
+# How Do You Display Mathematical Equations and Chemical Formulas in HTML?
 
 ### **The Superscript Element (`<sup>`)**  
 

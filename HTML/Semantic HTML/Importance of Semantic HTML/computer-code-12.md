@@ -1,4 +1,4 @@
-# **How Do You Represent Computer Code in HTML?**  
+# How Do You Represent Computer Code in HTML?
 
 ### **The Inline Code Element (`<code>`)**  
 
