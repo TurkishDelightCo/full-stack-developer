@@ -14,5 +14,5 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [Workshop: Build a Cat Blog Page](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20Cat%20Blog%20Page/index.html)
 -  [Lab: Build an Event Hub](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20an%20Event%20Hub/index.html)
 ### 3. Forms and Tables
-- [Working with Tables]
+- [Working with Tables](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables)
 
