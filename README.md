@@ -5,14 +5,13 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 
 ## HTML
 ### 1. Basic HTML
- - [Basics](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Basics)
- - [HTML Fundamentals](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/HTML%20Fundamentals)
- - [Working with Media](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Media)
- - [Working with Links](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Links)
+ - [Workshop: Build a Cat Photo App](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Basics/CatPhotoApps)
+ - [Lab: Build a Recipe Page](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Basic%20HTML/Basics/Lab/index.htmls)
+ - [Lab: Travel Agency Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/HTML%20Fundamentals/Travel%20Agency%20Page)
+ - [Lab: Build a Video Compilation Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Basic%20HTML/Working%20with%20Media/Build%20a%20Video%20Compilation%20Page)
 ### 2. Semantic HTML
-- [Importance of Semantic HTML](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Semantic%20HTML/Importance%20of%20Semantic%20HTML)
 - [Workshop: Build a Cat Blog Page](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20Cat%20Blog%20Page/index.html)
--  [Lab: Build an Event Hub](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20an%20Event%20Hub/index.html)
+- [Lab: Build an Event Hub](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20an%20Event%20Hub/index.html)
 ### 3. Forms and Tables
-- [Working with Tables](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables)
+- [Workshop: Build a Hotel Feedback Form](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Hotel%20Feedback%20Form/index.html)
 
