@@ -15,3 +15,6 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 ### 3. Forms and Tables
 - [Workshop: Build a Hotel Feedback Form](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Hotel%20Feedback%20Form/index.html)
 - [Lab: Build a Survey Form](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Survey%20Form)
+- [Workshop: Build a Final Exams Table](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Final%20Exams%20Table)
+- [Lab: Build a Book Catalog Table](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Book%20Catalog%20Table)
+
