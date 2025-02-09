@@ -14,4 +14,4 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [Lab: Build an Event Hub](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Semantic%20HTML/Build%20an%20Event%20Hub/index.html)
 ### 3. Forms and Tables
 - [Workshop: Build a Hotel Feedback Form](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Hotel%20Feedback%20Form/index.html)
-
+- [Lab: Build a Survey Form](https://github.com/TurkishDelightCo/full-stack-developer/blob/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Hotel%20Feedback%20Form/index.html)
