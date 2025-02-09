@@ -1,0 +1,59 @@
+<!--Build a Book Catalog Table-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+<body>
+  <table>
+    <caption>Top 5 Coding Books</caption>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td>Automate the Boring Stuff with Python</td>
+          <td>Al Sweigart</td>
+          <td>Python</td>
+          <td>2018</td>
+      </tr>
+      <tr>
+          <td>Python Crash Course</td>
+          <td>Eric Matthes</td>
+          <td>Python</td>
+          <td>2019</td>
+      </tr>
+      <tr>
+          <td>Eloquent JavaScript</td>
+          <td>Marijn Haverbeke</td>
+          <td>Javascript</td>
+          <td>2020</td>
+      </tr>
+      <tr>
+          <td>HTML and CSS: Design and Build Websites</td>
+          <td>Jon Duckett</td>
+          <td>HTML & CSS</td>
+          <td>2021</td>
+      </tr>
+      <tr>
+          <td>You Don’t Know JS</td>
+          <td>Kyle Simpson</td>
+          <td>Javascript</td>
+          <td>2022</td>
+      </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+          <td colspan="4">Total Books: 5</td>
+        </tr>
+      </tfoot>
+  </table>
+</body>
+</html>
