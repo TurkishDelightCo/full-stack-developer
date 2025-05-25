@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <header>
+        <h1>Checkout</h1>
+    </header>
+
+    <main>
+        <section aria-labelledby="cart-heading">
+            <h2 id="cart-heading">Your Cart</h2>
+            <figure>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" 
+                     alt="Colorful Rubik's Cube on white background"
+                     width="250"
+                     height="250">
+                <figcaption>Rubik's Cube - $14.99</figcaption>
+            </figure>
+        </section>
+
+        <section aria-labelledby="payment-heading">
+            <h2 id="payment-heading">Payment Information</h2>
+            
+            <form id="payment-form" method="POST" action="#">
+                <fieldset>
+                    <legend class="visually-hidden">Credit Card Details</legend>
+                  
+                        <label for="card-name">
+                            Cardholder Name:
+                        </label>
+                        <input type="text" 
+                               id="card-name" 
+                               name="card-name"
+                               placeholder="John Doe"
+                               required
+                               autocomplete="cc-name">
+                        <br><br>
+                  
+                        <label for="card-number">
+                            Card Number:
+                        </label>
+                        <input type="text" 
+                               id="card-number" 
+                               name="card-number"
+                               placeholder="4242 4242 4242 4242"
+                               required
+                               pattern="[\d ]{13,23}"
+                               maxlength="19"
+                               autocomplete="cc-number">
+                        <br><br>
+
+                        <label for="expiry-date">
+                            Expiration Date:
+                        </label>
+                        <input type="month" 
+                               id="expiry-date" 
+                               name="expiry-date"
+                               required
+                               autocomplete="cc-exp">
+                        <br><br>
+          
+                        <label for="cvc">
+                            CVC:
+                        </label>
+                        <input type="text" 
+                               id="cvc" 
+                               name="cvc"
+                               placeholder="123"
+                               required
+                               pattern="\d{3,4}"
+                               maxlength="4"
+                               autocomplete="cc-csc">
+
+                    <button type="submit">Complete Purchase</button>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
