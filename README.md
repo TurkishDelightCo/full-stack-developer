@@ -21,3 +21,5 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [Lab: Build a Book Catalog Table](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Forms%20and%20Tables/Working%20with%20Tables/Build%20a%20Book%20Catalog%20Table)
 ### 4. Accesibility
 - [Lab: Build a Checkout Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Build%20a%20Checkout%20Page)
+- [Lab: Design a Movie Review Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Design%20a%20Movie%20Review%20Page)
+- [Lab: Build a Multimedia Player](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Build%20a%20Multimedia%20Player)
